@@ -55,14 +55,14 @@ Selected projects that best demonstrate my approach:
 
 More educational projects (DSB6, DSB9, DSB11, ml3, DSB10) and the full
 learning log are in the
-[link-to-data-science-portfolio](https://github.com/pixy-kler/data-science-portfolio)
+[**data-science-portfolio**](https://github.com/pixy-kler/data-science-portfolio)
 
 ---
 
 ### 📂 Full Portfolio
 
 All projects — with descriptions, stack, and results — live in the
-[**data-science-portfolio**](link-to-data-science-portfolio) repository:
+[**data-science-portfolio**](https://github.com/pixy-kler/data-science-portfolio) repository:
 
 - **ML Course:** from EDA to GBDT from scratch — 5 projects.
 - **DS Intensive:** from SQL and visualization to a product and A/B

@@ -55,7 +55,7 @@ Selected projects that best demonstrate my approach:
 
 More educational projects (DSB6, DSB9, DSB11, ml3, DSB10) and the full
 learning log are in the
-[**portfolio repository**](link-to-data-science-portfolio).
+[link-to-data-science-portfolio](https://github.com/pixy-kler/data-science-portfolio)
 
 ---
 

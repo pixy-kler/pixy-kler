@@ -51,7 +51,7 @@ Selected projects that best demonstrate my approach:
 | :--- | :--- | :--- | :--- |
 | **[DSB8 — A/B Test of the Newsfeed (SQL)](https://github.com/pixy-kler/dsb8-sql-ab-test)** | 🎓 DSB, Module 8 | Product hypothesis → SQL → datamart → A/B test | sqlite3, pandas |
 | **[DSB12 — Nutritionist: from Notebook to CLI](link)** | 🎓 DSB, Module 12 | Notebook → module → CLI + external API + bonus menu generator | scikit-learn, `requests`, OOP |
-| **[ml5 — Decision Trees and GBDT from Scratch](link)** | 🎓 ML Course, Module 5 | `Node` / `DecisionTree` / `RandomForest` / `GBDT` on NumPy + LightGBM, CatBoost, XGBoost | NumPy, scikit-learn |
+| **[ml5 — Decision Trees and GBDT from Scratch](https://github.com/pixy-kler/ml5-trees-gbdt)** | 🎓 ML Course, Module 5 | `Node` / `DecisionTree` / `RandomForest` / `GBDT` on NumPy + LightGBM, CatBoost, XGBoost | NumPy, scikit-learn |
 
 More educational projects (DSB6, DSB9, DSB11, ml3, DSB10) and the full
 learning log are in the
@@ -68,7 +68,7 @@ All projects — with descriptions, stack, and results — live in the
 - **DS Intensive:** from SQL and visualization to a product and A/B
   tests — 12 projects.
 - **Learning log:** the exercises behind the foundation —
-  [learning-exercises](link-to-learning-exercises).
+  [learning-exercises](https://github.com/pixy-kler/learning-exercises).
 
 ---
 

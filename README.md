@@ -50,7 +50,7 @@ Selected projects that best demonstrate my approach:
 | Project | Type | What it's about | Stack |
 | :--- | :--- | :--- | :--- |
 | **[DSB8 — A/B Test of the Newsfeed (SQL)](https://github.com/pixy-kler/dsb8-sql-ab-test)** | 🎓 DSB, Module 8 | Product hypothesis → SQL → datamart → A/B test | sqlite3, pandas |
-| **[DSB12 — Nutritionist: from Notebook to CLI](link)** | 🎓 DSB, Module 12 | Notebook → module → CLI + external API + bonus menu generator | scikit-learn, `requests`, OOP |
+| **[DSB12 — Nutritionist: from Notebook to CLI](https://github.com/pixy-kler/dsb12-nutritionist-cli)** | 🎓 DSB, Module 12 | Notebook → module → CLI + external API + bonus menu generator | scikit-learn, `requests`, OOP |
 | **[ml5 — Decision Trees and GBDT from Scratch](https://github.com/pixy-kler/ml5-trees-gbdt)** | 🎓 ML Course, Module 5 | `Node` / `DecisionTree` / `RandomForest` / `GBDT` on NumPy + LightGBM, CatBoost, XGBoost | NumPy, scikit-learn |
 
 More educational projects (DSB6, DSB9, DSB11, ml3, DSB10) and the full

@@ -38,7 +38,9 @@ work as I grow.
 *In progress — case studies will appear here.*
 
 #### 🧪 Pet Projects
-*In progress — coming soon.*
+Project | Type | What it's about | Stack
+---|---|---|---
+**[Sber Events Parser](https://github.com/pixy-kler/sber-events-parser)** | 🧪 Pet | Automated parser for Sber's IT events (hackathons/meetups). Next.js `__NEXT_DATA__` extraction, relevance scoring, HTML email digest with deduplication | Python, `requests`, `smtplib`, `python-dotenv`
 
 #### 🏅 Kaggle & Competitions
 *In progress — coming soon.*
